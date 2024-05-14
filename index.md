@@ -1,7 +1,7 @@
 <html>
     <style>
         a {
-            color:orange;
+            color:red;
         }
     </style>
 
